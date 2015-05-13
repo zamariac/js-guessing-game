@@ -36,7 +36,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Fork and then clone this repository. You will complete this assignment by modifying the game.js file within your copy of the code.
+Fork and then clone this repository. You will complete this assignment by modifying the main.js file within your copy of the code.
 
 For this assignment you will create a number guessing game. Your program will randomly generate an integer (whole number) between 1 and 100. Using the game.ask command, you should ask the user to guess the randomly generate number. If their guess is too low, it should inform them that the guess was too low and prompt them to guess again. If their guess is too high it should inform them that their guess was too high, and prompt them to guess again. If they correctly guess the number it should inform them that they won.
 
